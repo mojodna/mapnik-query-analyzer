@@ -1,0 +1,19 @@
+{
+  "name": "mapnik-something-something",
+  "version": "1.0.0",
+  "description": "Find layer bottlenecks in Mapnik stylesheets",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "holdtime": "^0.1.1",
+    "mapnik": "^3.1.2",
+    "pg": "^4.0.0",
+    "pg-escape": "0.0.3",
+    "progress": "^1.1.8",
+    "sphericalmercator": "^1.0.2",
+    "wkx": "0.0.2",
+    "xml2js": "^0.4.4"
+  }
+}
